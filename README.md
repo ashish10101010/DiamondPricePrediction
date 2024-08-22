@@ -1,5 +1,6 @@
 # Diamond Price Prediction
 This project aims to predict the prices of diamonds based on their features, such as carat, cut, color, clarity, and more. 
+
 The prediction model can help users estimate the value of diamonds, which can be beneficial for buyers, sellers, and investors in the diamond market.
 
 # Commands
